@@ -1,10 +1,10 @@
-# JSON Server Template
+# ZooWorld-Server
 
-##
+This application provides the server infrastructure for persisting updates to the ZooWorld Application
 
 ## Setup
 
-Fork and clone this repo. Then install the dependencies by running:
+Install the dependencies by running:
 
 ```sh
 npm install
